@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,500|Rokkitt');
+
+/* w2oblue: 2FA4DD
+navy: 002B3F
+orange: F15922
+slate: 75899B
+red: 9B3737
+gray: 494848 */
+
+body {
+  background-color: white;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 200;
+}
+
+h1 {
+  color: #002B3F;
+  text-align: center;
+
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  width: 150px;
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-weight: 500;
+}
+
+img {
+  margins: 0px;
+  padding: 0px;
+}
+
+p {
+  display: inline-block;
+  margins: 0px;
+  padding: 0px;
+
+}
+
+.big {
+  font-size: 48px;
+  width: 500px;
+
+}
+
+.small {
+  font-size: 18px;
+  width: 500px;
+
+}
